@@ -73,7 +73,7 @@ class _HomeScreenState extends State<HomeScreen> {
               ),
             ],
             onTabChange: (value) {
-              _pageController.animateToPage(value, duration: const Duration(milliseconds: 300), curve: Curves.bounceInOut);
+              _pageController.animateToPage(value, duration: const Duration(milliseconds: 300), curve: Curves.easeIn);
               _scale = 0.0;
             },
           ),
