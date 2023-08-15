@@ -65,10 +65,6 @@ We welcome contributions from the community! If you'd like to contribute to this
 
 We'll review your pull request and merge it if everything looks good!
 
-## Acknowledgements
-
-We would like to thank the Flutter and GetX communities for their valuable contributions and support.
-
 ## Contact
 
 If you have any questions or suggestions , feel free to contact us at rh676838@gmail.com.
