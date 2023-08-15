@@ -35,11 +35,8 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
-  mobx: ^2.2.0
-  flutter_mobx: ^2.0.6+5
   flutter_svg: ^2.0.7
   analog_clock: ^0.1.1
-  awesome_bottom_bar: ^1.2.4
   google_nav_bar: ^5.0.6
   flutter_bloc: ^8.1.3
   sqflite: ^2.3.0
@@ -50,8 +47,6 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  mobx_codegen:
-  build_runner:
 
 
   # The "flutter_lints" package below contains a set of recommended lints to
